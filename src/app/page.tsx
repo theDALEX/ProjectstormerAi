@@ -96,7 +96,8 @@ export default function Home() {
   };
 
   //Mail sender Api caller
-  async function sendMail() {
+  async function sendMail(event: any) {
+    event.preventDefault();
     const response = await fetch("/api/sendMail", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
