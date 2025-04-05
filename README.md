@@ -41,3 +41,7 @@ Save time and energy in the ideation process and focus on bringing your projects
 - Users can report bugs or issues they encounter through the Contact Developer button
 
 ![Screenshot of the Website](WedDemo/Screenshot%202025-04-05%20194949.png)
+
+- The platform is optimized for all screen sizes, ensuring seamless usability across devices
+
+![Screenshot of the Website](WedDemo/Screenshot%202025-04-05%20221239.png)
