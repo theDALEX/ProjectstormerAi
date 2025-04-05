@@ -27,6 +27,7 @@ interface EmailStructure {
 }
 
 export default function Home() {
+  console.log('Deployed API Keys and email:', process.env.NEXT_PUBLIC_API_KEY, process.env.EMAIL_ID, process.env.EMAIL_PASS);
   const router = useRouter();
   //context loader
   const { isDarkMode, toggleTheme, setResponseData } = useBridgeData();
