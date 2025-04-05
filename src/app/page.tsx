@@ -191,7 +191,8 @@ export default function Home() {
           <button
             type="submit"
             aria-label="Generate Ideas"
-            className="bg-gradient-to-br from-blue-400 via-purple-600 to-blue-800 text-white p-2 rounded-md hover:from-blue-300 hover:via-indigo-500 hover:to-blue-500 transition duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500">
+            className="bg-gradient-to-br from-blue-400 via-purple-600 to-blue-800 text-white p-2 rounded-md hover:from-blue-300 hover:via-indigo-500 hover:to-blue-500 transition duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500"
+          >
             {loading ? (
               <Box sx={{ width: '100%' }}>
                 <p className="font-mono">Brainstorming...</p>
