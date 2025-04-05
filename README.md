@@ -1,6 +1,6 @@
 # ProjectstormerAi
 
-**ProjectstormerAi** is a platform that sparks creativity and empowers users to generate impactful project ideas. Designed for students and professionals, it bridges the gap between brainstorming and execution, offering tailored solutions across diverse fields and disciplines.
+**ProjectstormerAi** is a web platform that sparks creativity and empowers users to generate impactful project ideas. Designed for students and professionals, it bridges the gap between brainstorming and execution, offering tailored solutions across diverse fields and disciplines.
 
 Explore ProjectstormerAi live here: [ProjectstormerAi](https://projectstormerai.netlify.app/)
 
