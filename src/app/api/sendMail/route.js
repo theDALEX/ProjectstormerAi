@@ -1,6 +1,6 @@
 import nodemailer from "nodemailer";
 
-export async function POST(req: any) {
+export async function POST(req) {
     const { email, subject, message } = await req.json(); // Extract data from the client request
 
     try {
